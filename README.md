@@ -1,7 +1,6 @@
 # appcontador
 
 Aplicativo que conta a quantidade de tripulantes do navio. Quando atinge o limete máximo o  aplicativo informo que esta lotado.
-Lucas Henrique Pereira
 
 
 ![image](https://github.com/user-attachments/assets/3ca06ad1-1d88-4e2a-a134-be3769dab05f)
