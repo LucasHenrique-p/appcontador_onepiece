@@ -1,6 +1,13 @@
 # appcontador
 
-A new Flutter project.
+Aplicativo que conta a quantidade de tripulantes do navio. Quando atinge o limete máximo o  aplicativo informo que esta lotado.
+Lucas Henrique Pereira
+
+
+![image](https://github.com/user-attachments/assets/3ca06ad1-1d88-4e2a-a134-be3769dab05f)
+![image](https://github.com/user-attachments/assets/bc90030c-570b-479a-be61-cbd4b3db103a)
+
+
 
 ## Getting Started
 
